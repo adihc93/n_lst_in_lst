@@ -2,7 +2,7 @@
 """
 Created on Sat Jan 20 17:32:07 2018
 Accessing items list within list n nesting
-@author: HP
+@author: ch@tur
 """
 
 
